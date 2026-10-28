@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="text-align: center; color:purple;">My Profile</h1>
+    <img src="user.webp" alt="User Image" style="float: left; margin-right: 20px; height: 150px; width: 150px;">
+    
+    <p style="text-align: justify;"><strong>Name:</strong>Rahul Sharma</p>
+    <p style="text-align: justify;"><strong>Course:</strong>B.Tech(CSE)</p>
+    <p style="text-align: justify;"><strong>College:</strong>ABC Engineering College</p>
+    <p style="text-align: justify;"><strong>City:</strong>Ghaziabad</p>
+    &nbsp;
+    <hr style="border: 1px solid black; margin: 20px 0;">
+    
+    <h1 style="color:red;">About Me</h1>
+    <p>I am a student of Computer Science.</p>
+    <p>I am interested in <i>Web Development,</i></p>
+    <p><mark>artificial intelligence</mark> and <u>data science.</u></p>
+
+
+</body>
+</html>
